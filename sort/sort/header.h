@@ -79,7 +79,7 @@ void QuickSort()
 	Quick(arr, 0, (sizeof(arr)/sizeof(int))-1);
 	cout << "Äü Á¤·Ä  :";
 	show(arr);
-
+	
 }
 void Quick(int* data, int start, int end)
 {
